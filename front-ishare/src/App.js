@@ -92,6 +92,9 @@ function App() {
 
           setURL(ahmed)
 
+          // Setfilelist('')
+         
+
           GetPathName(ahmed)
 
         }
