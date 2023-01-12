@@ -1,5 +1,5 @@
-.env
-/.env
+/server/.env
+/server/.env
 /uploads/*
 /server/node_modules
 /front-ishare/node_modules
