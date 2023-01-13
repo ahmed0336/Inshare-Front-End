@@ -3,3 +3,6 @@
 /uploads/*
 /server/node_modules
 /front-ishare/node_modules
+
+# git rm .env --cached
+# git commit -m "Stopped tracking .env File"
